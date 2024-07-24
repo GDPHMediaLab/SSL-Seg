@@ -1,4 +1,4 @@
-# SSL-Seg
+
 For the paper "Label-Efficient Transformer-Based Framework with Self-Supervised Strategies for Heterogeneous Lung Tumor Segmentation"
 
 [![](https://user-images.githubusercontent.com/17007301/219617294-a5f38b07-4599-4834-aa7c-96d01299a531.png)](https://user-images.githubusercontent.com/17007301/219617294-a5f38b07-4599-4834-aa7c-96d01299a531.png)
